@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-sudo apt-get install cifs-utils smbclient libldb2 libsmbclient libwbclient0 python3-gpg python3-ldb python3-samba python3-tdb samba-common-bin samba-dsdbmodules samba-vfs-modules samba samba-libs samba-common -y 
+sudo apt-get install cifs-utils smbclient libldb2 libsmbclient libwbclient0 python3-gpg python3-ldb python3-samba python3-tdb samba-common-bin samba-dsdb-modules samba-vfs-modules samba samba-libs samba-common -y
