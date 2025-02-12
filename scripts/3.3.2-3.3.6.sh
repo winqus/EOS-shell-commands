@@ -42,3 +42,5 @@ sudo tee /etc/samba/smb.conf > /dev/null <<EOL
    guest ok = no
    inherit permissions = yes
 EOL
+
+echo "Done!"
