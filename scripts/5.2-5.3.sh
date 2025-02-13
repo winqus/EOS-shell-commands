@@ -20,10 +20,10 @@ curl --output ~/cmsms-2.2.20-install.zip "http://s3.amazonaws.com/cmsms/download
 chmod ug+x ~/cmsms-2.2.20-install.zip
 
 echo "5.2.6 - Extracting CMSMADESIMPLE..."
-unzip ~/cmsms-2.2.20-install.zip -d ~/cmsms
+unzip ~/cmsms-2.2.20-install.zip
 
 echo "5.2.7 - Extracting PAYSERA CMSMADESIMPLE extension..."
-unzip ~/cmsmadesimple.zip -d ~/cmsms-extension
+unzip ~/cmsmadesimple.zip
 
 echo "5.3 - Section: BITNAMI Service Package Versions."
 
